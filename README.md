@@ -1,8 +1,4 @@
 | ![.NET Core](https://github.com/ouchhawk/ouchhawk/blob/main/icons8-.net-framework.svg) | ![Angular](https://github.com/ouchhawk/ouchhawk/blob/main/icons8-angularjs.svg) | ![Spring Boot](https://github.com/ouchhawk/ouchhawk/blob/main/icons8-spring-boot(1).svg) | ![Unity Engine](https://github.com/ouchhawk/ouchhawk/blob/main/icons8-unity(1).svg) | ![Unreal 5](https://github.com/ouchhawk/ouchhawk/blob/main/icons8-unreal-engine(1).svg) |  Vanilla C++ |
 | ------------- | ------------- | -------------| -------------|-------------| -------------|
-|  | 📁 [blog project](https://github.com/ouchhawk/task-blog-project) | 📁 fleet registration  | 📁 [snake3d](https://github.com/ouchhawk/snake3d) | 📁 [metahuman](https://github.com/ouchhawk/metahuman-openai) | [multiset partition](https://github.com/ouchhawk/multiset-partition) |
-|  | 📁 [tumblr demo](https://github.com/ouchhawk/task-tumblr-demo )| 📁 [websocket implementation](https://github.com/ouchhawk/task-websocket-implementation) |  |  |  |
-
-
-
-
+|  | 📁 [blog-project](https://github.com/ouchhawk/task-blog-project) | 📁 [fleet-registration](https://github.com/ouchhawk/task-fleet-reg)  | 📁 [snake3d](https://github.com/ouchhawk/snake3d) | 📁 [metahuman](https://github.com/ouchhawk/metahuman-openai) | 📁 [multiset-partition](https://github.com/ouchhawk/multiset-partition) |
+|  | 📁 [tumblr-demo](https://github.com/ouchhawk/task-tumblr-demo )| 📁 [websocket-implementation](https://github.com/ouchhawk/task-websocket-implementation) |  |  |  |
