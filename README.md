@@ -2,3 +2,4 @@
 | ------------- | ------------- | -------------| -------------| -------------|
 | 📁 [recap-project](https://github.com/ouchhawk/recap-project) | 📁 [blog-project](https://github.com/ouchhawk/task-blog-project) | 📁 [websocket-implementation](https://github.com/ouchhawk/task-websocket-implementation) | 📁 [snake3d](https://github.com/ouchhawk/snake3d) | 📁 [multiset-partition](https://github.com/ouchhawk/multiset-partition) |
 |  | 📁 [tumblr-demo](https://github.com/ouchhawk/task-tumblr-demo )|  |  |  |  |
+|  | 📁 [recap-frontend](https://github.com/ouchhawk/recap-frontend )|  |  |  |  |
